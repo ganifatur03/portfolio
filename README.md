@@ -6,7 +6,7 @@ I build the pipelines that make a dashboard worth trusting — replacing the slo
 manual parts of client reporting with something that runs on its own and says
 something when the data looks wrong.
 
-### → [Read the full portfolio](https://ganifatur03.github.io/Portofolio/)
+### → [Read the full portfolio](https://ganifatur03.github.io/portfolio/)
 
 Four client projects, written up properly: what the problem was, what I built,
 and what actually changed.
@@ -48,7 +48,7 @@ I describe it properly.
 
 ### Elsewhere
 
-- **Portfolio** — [USERNAME.github.io/portfolio](https://ganifatur03.github.io/Portofolio/)
+- **Portfolio** — [USERNAME.github.io/portfolio](https://ganifatur03.github.io/portfolio/)
 - **LinkedIn** — [gani-faturahman](https://www.linkedin.com/in/gani-faturahman-839263141/)
 - **Email** — ghanifatturahman@gmail.com
 
